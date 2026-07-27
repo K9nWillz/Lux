@@ -1,0 +1,8 @@
+{
+  "name": "WhatsApp Storefront",
+  "description": "A premium mobile-first e-commerce storefront template optimized for direct WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
